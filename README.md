@@ -13,7 +13,7 @@
 
 ## 🚀 Sobre mim
 
-Sou estudante de TI, e atualmente curso Desenvolvimento de Software Multiplataforma.
+Sou estudante de TI, e atualmente curso Desenvolvimento de Software Multiplataforma pela FATEC de Cotia.
 
 Atualmente estou estudando:
 
