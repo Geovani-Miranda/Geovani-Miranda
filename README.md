@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Estudante+de+TI;Backend+Developer+em+formação;Aprendendo+Python,+SQL;e+Banco+de+dados"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Estudante+de+TI;Desenvolvedor+de+Softwar+em+Formação;Aprendendo+Python,+MySQL,+HTML,+CSS.;"/>
 
 </div>
 
